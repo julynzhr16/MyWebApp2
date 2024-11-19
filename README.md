@@ -1,0 +1,1 @@
+Web apps adalah aplikasi yang dapat diakses melalui browser tanpa perlu diunduh dan diinstal. Web apps dirancang untuk dapat diakses dan digunakan melalui browser website. 
